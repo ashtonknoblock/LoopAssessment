@@ -1,0 +1,27 @@
+body {
+    background: darkgreen;
+}
+
+table {
+    border: 10px solid;
+    color: yellow;
+    width: 700px;
+    height: 550px;
+    text-align: center;
+    border-bottom-color: rgba(128, 15, 15, 0.425);
+    border-top-color: blue;
+    border-right-color: rgba(128, 15, 15, 0.425);
+    border-left-color: blue;
+    margin: 0 auto;
+    font-size: 24px;
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    width: 30px;
+}
+
+
